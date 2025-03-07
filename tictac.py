@@ -1,6 +1,6 @@
 import random
 import math
-
+7git ad
 target = random.randint(1, 9)
 while True:
     guess = int(input("enter your guess between 1 and 9"))
